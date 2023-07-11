@@ -42,6 +42,13 @@
     <li>The program ensures that invalid or unrecognized characters are displayed as they are without any conversion.</li>
     <li>The program is provided as-is without any warranties or guarantees. Use it at your own risk.</li>
   </ul>
+  <h2 align="center">Video Demo</h2>
+<p align="center">
+    <a href="https://youtu.be/D4JqqClQIWE">
+        <img src="https://img.youtube.com/vi/D4JqqClQIWE/0.jpg" alt="Video">
+    </a>
+</p>
+
 </body>
 
 </html>
